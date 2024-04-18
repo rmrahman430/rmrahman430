@@ -38,10 +38,10 @@
 
 <div align="center">
   <a href="mailto:rayyanmrahman@gmail.com" target="_blank">
-    <img src="imgs/email.png" alt="Email" height="50" width="50" />
+    <img src="img/email.png" alt="Email" height="50" width="50" />
   </a>
   <a href="https://www.linkedin.com/in/rayyanmrahman/" target="_blank" style="margin-left: 20px;">
-    <img alt="LinkedIn" src="imgs/linkedin.png" height="40" width="40" />
+    <img alt="LinkedIn" src="img/linkedin.png" height="40" width="40" />
   </a>
 </div>
 
