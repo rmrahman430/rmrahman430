@@ -11,13 +11,13 @@
   <p style="line-height:10px;">🌐 Full Stack Developer & Data Scientist </p>
   <p style="line-height:10px;">💼 Looking for Full Time Opportunities in:
    <ul>
-    <li>Web Development</li>
-    <li>Data Science</li>
-    <li>Product Management</li>
-    <li>Software Engineering</li>
+    <li>🌐 Web Development</li>
+    <li>📊 Data Science</li>
+    <li>📈 Product Management</li>
+    <li>👨🏽‍💻 Software Engineering</li>
    </ul>
   </p>
-  <p style="line-height:10px;">🌱 Learning and exploring every day<p>
+  <p style="line-height:10px;">🧠 Learning and exploring every day<p>
  </div>
  <br>
 </div>
