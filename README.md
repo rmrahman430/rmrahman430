@@ -22,7 +22,7 @@
 <h2 align="left">Technologies I know:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,html,css,javascript,bootstrap,react,express,nodejs,mongodb,tensorflow,pytorch,vscode,visualstudio,git,github,matlab,r,heroku,aws,azure,bash,dart,flutter,sklearn,vscode,mysql,jest,firebase,&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,html,css,javascript,bootstrap,react,express,nodejs,mongodb,tensorflow,pytorch,vscode,visualstudio,git,github,matlab,r,heroku,aws,azure,bash,dart,flutter,sklearn,mysql,jest,firebase,&perline=11)](https://skillicons.dev)
 
 </div>
 
