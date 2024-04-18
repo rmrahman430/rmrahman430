@@ -18,11 +18,9 @@
       </ul>
     </p>
     <p style="line-height:10px;">🌱 Learning and exploring every day<p>
-    
   </div>
   <br>
 </div>
-
 <h2 align="left">Technologies I know:</h2>
 <div align="center">
 
