@@ -31,7 +31,7 @@
     <img src="https://streak-stats.demolab.com/?user=rmrahman430&theme=gruvbox" alt="GitHub Streak">
 </div>
 
-<h2 align="center">Get in touch</h2>
+<h2 align="center">Contact Me</h2>
 
 <div align="center">
   <a href="mailto:rayyanmrahman@gmail.com" target="_blank">
