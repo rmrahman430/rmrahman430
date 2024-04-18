@@ -44,11 +44,6 @@
     <img alt="LinkedIn" src="img/linkedin.png" height="40" width="40" />
   </a>
 </div>
-
-<div align="center">
-  <a href="mailto:rayyanmrahman@gmail.com" target="_blank" style="padding:8px; padding-left:20px;">Email</a> |
-  <a href="https://www.linkedin.com/in/rayyanmrahman/" target="_blank" style="padding:8px">LinkedIn</a> |
-</div>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rmrahman430&label=Profile%20views&color=0e75b6&style=flat" alt="rmrahman430" /> </p>
