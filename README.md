@@ -9,14 +9,11 @@
   <div style="font-size:16px;">
     <p style="line-height:10px;">🎓 Graduating from University of Houston in May 2024</p>
     <p style="line-height:10px;">🌐 Full Stack Developer & Data Scientist </p>
-    <p style="line-height:10px;">💼 Looking for full time opportunities </p>
-    
+    <p style="line-height:10px;">💼 Looking for Full Time Opportunities in Web Development, Data Science, Product Management, Software Engineering</p>
+    <p style="line-height:10px;">🌱 Learning and exploring every day<p>
     
   </div>
   <br>
-  <div style="font-size:16px;">
-    <p style="line-height:10px;">🌱 Learning and exploring every day<p>
-  </div>
 </div>
 
 <h2 align="left">Technologies I know:</h2>
