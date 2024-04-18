@@ -9,7 +9,7 @@
   <div style="font-size:16px;">
     <p style="line-height:10px;">🎓 Graduating from University of Houston in May 2024</p>
     <p style="line-height:10px;">🌐 Full Stack Developer & Data Scientist </p>
-    <p style="line-height:10px;">🌐 Looking for full time opportunities </p>
+    <p style="line-height:10px;">💼 Looking for full time opportunities </p>
     
     
   </div>
@@ -22,7 +22,7 @@
 <h2 align="left">Technologies I know:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,php,html,css,javascript,bootstrap,tailwind,django,flask,react,angular,express,nodejs,dotnet,mongo,sqlite,postgres,jquery,tensorflow,pytorch,vscode,visualstudio,replit,git,github,stackoverflow,matlab,r,heroku,arduino&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,html,css,javascript,bootstrap,react,express,nodejs,mongodb,tensorflow,pytorch,vscode,visualstudio,git,github,matlab,r,heroku,aws,azure,bash,dart,flutter,sklearn,vscode,mysql,jest,firebase,&perline=11)](https://skillicons.dev)
 
 </div>
 
