@@ -7,17 +7,17 @@
 
 <div align="center">
   <div style="font-size:16px;">
-    <p style="line-height:10px;"> Graduating from University of Houston (May 2024)</p>
-    <p style="line-height:10px;"> Full Stack Developer & Data Scientist </p>
-    <p style="line-height:10px;"> Looking for Full Time Opportunities:
+    <p style="line-height:10px;">Graduating from University of Houston (May 2024)</p>
+    <p style="line-height:10px;">Full Stack Developer & Data Scientist </p>
+    <p style="line-height:10px;">Looking for Full Time Opportunities:
       <ul>
-        <li>Web Development</li>
-        <li>Data Science</li>
-        <li>Product Management</li>
-        <li>Software Engineering</li>
-      </ul>
+        <div style="text-align: center;">  <li>Web Development</li>
+          <li>Data Science</li>
+          <li>Product Management</li>
+          <li>Software Engineering</li>
+        </div>  </ul>
     </p>
-    <p style="line-height:10px;"> Learning and exploring every day<p>
+    <p style="line-height:10px;">Learning and exploring every day<p>
   </div>
   <br>
 </div>
