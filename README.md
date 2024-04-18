@@ -12,7 +12,7 @@
     <p style="line-height:10px;">Looking for Full Time Opportunities in:
       <ul>
         <div style="text-align: center">  
-          <li>Web Development</li>
+          <li style="text-align: center;">Web Development</li>
           <li>Data Science</li>
           <li>Product Management</li>
           <li>Software Engineering</li>
