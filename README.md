@@ -27,11 +27,11 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=gruvbox" alt="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmrahman430&hide=html,css&layout=compact&theme=gruvbox" alt="Most Used Languages">
 </div>
 <br>
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=mustafaemresahin&theme=gruvbox" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=rmrahman430&theme=gruvbox" alt="GitHub Streak">
 </div>
 
 <h2 align="center">Get in touch</h2>
