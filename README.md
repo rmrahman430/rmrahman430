@@ -5,12 +5,7 @@
 </div>
 
 <h1 align="center">
-  Hey there, I’m Mustafa
-  <img
-    width="20px"
-    alt="Waving Emoji"
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-  />
+  Rayyan Rahman
 </h1>
 
 ### About Me
