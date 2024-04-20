@@ -28,10 +28,11 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,html,css,javascript,bootstrap,react,express,nodejs,mongodb,tensorflow,pytorch,vscode,visualstudio,git,github,matlab,r,heroku,aws,azure,bash,dart,flutter,sklearn,mysql,jest,firebase,&perline=11)](https://skillicons.dev)
 
 </div>
-
+/*
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmrahman430&hide=html,css&layout=compact&theme=gruvbox" alt="Most Used Languages">
 </div>
+*/
 <br>
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=rmrahman430&theme=gruvbox" alt="GitHub Streak">
